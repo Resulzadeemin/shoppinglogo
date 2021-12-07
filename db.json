@@ -15,21 +15,21 @@
       "text": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
     },
     {
-      "category":"turkey",  
+      "category":"america",  
       "id": 3,
       "url": "https://idostum.com/frontend/web/uploads//images/store/store-175.png",
       "name": "saat&saat",
       "text": "Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like)."
     },
     {
-      "category":"turkey",  
+      "category":"china",  
       "id": 4,
       "url": "https://idostum.com/frontend/web/uploads//images/store/store-161.png",
       "name": "karspor",
       "text": "Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. "
     },
     {
-      "category":"turkey",  
+      "category":"america",  
       "id": 5,
       "url": "https://idostum.com/frontend/web/uploads//images/store/store-160.png",
       "name": "ayakkabıcity",
@@ -43,7 +43,7 @@
       "text": "Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like)."
     },
     {
-      "category":"turkey",  
+      "category":"china",
       "id": 7,
       "url": "https://idostum.com/frontend/web/uploads//images/store/store-158.png",
       "name": "bigparfum",
@@ -64,14 +64,14 @@
       "text": "If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. "
     },
     {
-      "category":"america",    
+      "category":"china",    
       "id": 10,
       "url": "https://idostum.com/frontend/web/uploads//images/store/store-126.png",
       "name": "cimri",
       "text": " All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet."
     },
     {
-      "category":"america",    
+      "category":"turkey",   
       "id": 11,
       "url": "https://idostum.com/frontend/web/uploads//images/store/store-190.png",
       "name": "hırdavatalet.com",
@@ -92,14 +92,14 @@
       "text": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from de Finibus Bonorum et Malorum"
     },
     {
-      "category":"america",    
+      "category":"china",    
       "id": 14,
       "url": "https://idostum.com/frontend/web/uploads//images/store/store-187.png",
       "name": "tüzün",
       "text": "Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham."
     },
     {
-      "category":"china",    
+      "category":"america",    
       "id": 15,
       "url": "https://idostum.com/frontend/web/uploads//images/store/store-186.png",
       "name": "scooter",
@@ -113,7 +113,7 @@
       "text": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old."
     },
     {
-      "category":"china",   
+      "category":"turkey",   
       "id": 17,
       "url": "https://idostum.com/frontend/web/uploads//images/store/store-184.png",
       "name": "askı",
@@ -127,21 +127,21 @@
       "text": "From a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source."
     },
     {
-      "category":"china",   
+      "category":"turkey",   
       "id": 19,
       "url": "https://idostum.com/frontend/web/uploads//images/store/store-181.png",
       "name": "ifondi",
       "text": " you use this site regularly and would like to help keep the site on the Internet, please consider donating a small sum to help pay for the hosting and bandwidth bill. There is no minimum donation, any sum is appreciated to donate using PayPal. "
     },
     {
-      "category":"china",   
+      "category":"america",   
       "id": 20,
       "url": "https://idostum.com/frontend/web/uploads//images/store/store-176.png",
       "name": "deppo",
       "text": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fug"
     },
     {
-      "category":"china",   
+      "category":"turkey",   
       "id": 21,
       "url": "https://idostum.com/frontend/web/uploads//images/store/store-180.png",
       "name": "elart",
