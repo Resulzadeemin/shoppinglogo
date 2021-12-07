@@ -1,10 +1,11 @@
 {
 "shoppinglogo": [
     {
-      "category":"Turkey",
+      
       "id": 1,
       "url": "https://idostum.com/frontend/web/uploads/images/store/store-196.png",
       "name": "next",
+        "category":"Turkey",
       "text": "'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like)."
     },
     {
@@ -12,6 +13,7 @@
       "id": 2,
       "url": "https://idostum.com/frontend/web/uploads//images/store/store-183.png",
       "name": "kozbino",
+        "category":"Turkey",
       "text": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
     },
     {
@@ -43,8 +45,9 @@
       "text": "Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like)."
     },
     {
-      "category":"China",
+      
       "id": 7,
+        "category":"China",
       "url": "https://idostum.com/frontend/web/uploads//images/store/store-158.png",
       "name": "bigparfum",
       "text": " 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text."
