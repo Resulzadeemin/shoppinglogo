@@ -1,6 +1,7 @@
 {
 "shoppinglogo": [
     {
+      "link":"https://www.sefamerve.com/",
       "category":"turkey",
       "id": 1,
       "url": "https://idostum.com/frontend/web/uploads/images/store/store-196.png",
@@ -8,6 +9,7 @@
       "text": "'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like)."
     },
     {
+      "link":"https://www.6pm.com/",
       "category":"turkey",
       "id": 2,
       "url": "https://idostum.com/frontend/web/uploads//images/store/store-183.png",
